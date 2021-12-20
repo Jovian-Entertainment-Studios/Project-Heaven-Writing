@@ -1,0 +1,8 @@
+1. Grounded ui, (buttons in the vr etc)
+
+2. Aware of the game world, nothing is told to you out right (guppi only says anomaly detected)
+
+3. Dont give the player info on all the game systems, some if not most things should be surprises
+
+4. Comment on, remeber and reward past actions (saving archimedes lets gives a more in depth deltan story arc)
+

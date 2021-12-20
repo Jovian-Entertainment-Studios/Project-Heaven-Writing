@@ -1,0 +1,72 @@
+System to system travel:
+Easy:
++GUPPI guidance
++no maintenance
+-star to star, little to no precision 
+-calculation time
+Medium:
++GUPPI guidance
+-star to star, little to no precision 
+Hard:
++extreme precision 
++exceed max speed for boosts
+-Manual route planning 
+-route maintenance (website?)
+
+Research:
+Easy:
++One click
++Background
+-Increase time
+-Little community effort on research
+Medium:
++One click
++Progress syncs between bobs
+-Small minigames to send data between bobs
+-Increase time
+Hard:
++Fast
++Progress syncs between bobs
+-Small minigames to send data between bobs
+-Must vary research to maximize speed
+
+Ship mods:
+Easy:
++Click and swap
+-Can't do complex tradeoff mods
+Medium:
++More advanced custom stuff
+-Minigames for connecting more complex stuff
+Hard:
++Can complete basically anything
+-Dongle madness spaghetti thing
+-Minigames for connecting more complex stuff
+
+Combat:
+Easy:
++Click, auto fire
++Auto targeting
+-Might miss
+-Not max damage
+Medium:
++Auto targeting
+-Minigame for best timings
+Hard:
++Max damage
++Does not miss
+-SUDDAR targeting minigame
+-Minigame for best timings
+
+Cloning:
+Easy:
++Click -> done
+-No customizing
+Medium:
++Fast
+-Drone allocation 
+-No customizing
+Hard:
++customizing
++Fast
+-Drone allocation 
+-New model testing and risks
